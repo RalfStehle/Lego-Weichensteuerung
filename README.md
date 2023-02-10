@@ -20,17 +20,17 @@ Leider funktioniert diese nicht mit dem neuen Board von Seeed Xiao Esp32<br>
     <img src="https://github.com/RalfStehle/Lego-Weichensteuerung/blob/main/1.png" title="" height= "250" alt="" style="margin:5px" align="left">
     <img src="https://github.com/RalfStehle/Lego-Weichensteuerung/blob/main/2.png" title="" height= "250" alt="" style="margin:5px" align="left">
 </div>
-<br>
+<br><br><br<br><br><br><br><br><br><br><br><br><br>
 <div>
     <img src="https://github.com/RalfStehle/Lego-Weichensteuerung/blob/main/3.png" title="" height= "250" alt="" style="margin:5px" align="left">
     <img src="https://github.com/RalfStehle/Lego-Weichensteuerung/blob/main/4.png" title="" height= "250" alt="" style="margin:5px" align="left">
 </div>
-<br>
+<br><br><br<br><br><br><br><br><br><br><br><br><br>
 <div>
     <img src="https://github.com/RalfStehle/Lego-Weichensteuerung/blob/main/5.png" title="" height= "250" alt="" style="margin:5px" align="left">
     <img src="https://github.com/RalfStehle/Lego-Weichensteuerung/blob/main/6.png" title="" height= "250" alt="" style="margin:5px" align="left">
 </div>
-<br>
+<br><br><br<br><br><br><br><br><br><br><br><br><br>
 <div>
     <img src="https://github.com/RalfStehle/Lego-Weichensteuerung/blob/main/7.png" title="" height= "250" alt="" style="margin:5px" align="left">
     <img src="https://github.com/RalfStehle/Lego-Weichensteuerung/blob/main/8.png" title="" height= "250" alt="" style="margin:5px" align="left">
